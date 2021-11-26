@@ -26,6 +26,12 @@ body {
   text-align: center;
   }
 
+p {
+  float: right;
+  padding-left: 2px;
+  margin: 3px
+}
+
 input[type=text] {
   background: #fff;
   display: flex;
@@ -39,6 +45,7 @@ input[type=text] {
   width: 80%;
   max-width: 584px;
 }
+
 
 input[type=submit] {
   background-color: #f8f9fa;
