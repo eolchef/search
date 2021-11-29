@@ -32,10 +32,12 @@ h2 {
 h6 {
   color: #4285f4;
   font: 16px/16px roboto-regular, arial, sans-serif;
-  position: absolute;
-  left: 845px;
-  bottom: 442px;
+  position: relative;
+  top:-18px;
+  left: 105px;
   white-space: nowrap;
+  margin:0%;
+  padding:0%;
 }
   
 body {
